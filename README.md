@@ -2,7 +2,7 @@
 
 I am a Mobile Application Developer with 4+ years of experience in Flutter and native Android development. I have a strong background in utilizing REST and Google APIs with Clean Architecture. I am confident in my ability to tackle any challenge that comes my way.
 
-## <b>About Me:<b>
+## <b>About Me<b>
 
 <ul>
   <li style="font-weight: normal;">🚀 Expertise in Mobile Application Development for more than 4 years</li>
@@ -22,7 +22,9 @@ I am a Mobile Application Developer with 4+ years of experience in Flutter and n
   <li style="font-weight: normal;">👥 A team where I can contribute my skills and experience to build innovative and user-friendly mobile applications</li>
 </ul>
 -->
-## <img src="https://raw.githubusercontent.com/zeeshanahmad0201/zeeshan_ahmad/main/giphy.gif"><b>Skills</b>
+
+## <b>Skills</b>
+
 <br>
 
 <p align="center">
