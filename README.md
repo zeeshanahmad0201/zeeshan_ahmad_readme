@@ -22,7 +22,7 @@ I am a Mobile Application Developer with 4+ years of experience in Flutter and n
   <li style="font-weight: normal;">👥 A team where I can contribute my skills and experience to build innovative and user-friendly mobile applications</li>
 </ul>
 -->
-## <img src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width ="25"><b> Skills</b>
+## <img src="https://raw.githubusercontent.com/zeeshanahmad0201/zeeshan_ahmad/main/giphy.gif"><b>Skills</b>
 <br>
 
 <p align="center">
