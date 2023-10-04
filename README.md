@@ -27,9 +27,7 @@ My name is Zeeshan Ahmad. I am a Mobile Application Developer with 4+ years of e
 
 <br>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,java,firebase,git,github,gitlab,figma,postman,xd,androidstudio,googlecloud,gradle,stackoverflow&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,java,firebase,git,github,gitlab,figma,postman,xd,androidstudio,googlecloud,gradle,stackoverflow&perline=14" />
 </p>
 
 <br>
